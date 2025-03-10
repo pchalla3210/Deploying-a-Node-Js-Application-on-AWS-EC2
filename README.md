@@ -2,7 +2,7 @@
 
 Testing the project locally
 Clone this project
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/pchalla3210AWS-Session.git
 Setup the following environment variables - (.env) file
 DOMAIN= ""
 PORT=3000
@@ -30,7 +30,7 @@ Install Git - Guide by DigitalOcean
 Configure Node.js and npm - Guide by DigitalOcean
 Deploying the project on AWS
 Clone this project in the remote VM
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/pchalla3210/AWS-Session.git
 Setup the following environment variables - (.env) file
 DOMAIN= ""
 PORT=3000
